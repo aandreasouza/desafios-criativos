@@ -1,0 +1,5 @@
+PROMPT:
+Quero que a IA gere um guia para terapeuta holístico que atende  pessoas entre 25-35 anos de idade, com o objetivo de transformarem suas vidas.
+Considere o seguinte contexto: Pessoas adultas tanto homens quanto mulheres que estão em busca de melhorar suas vidas e estão dispostos a olhar para seus traumas.
+O conteúdo deve ter guias para conduzir sessões de terapias analíticas, com alternativas para utilização de Reiki e Tarô.
+Evite falar sobre o gênero da pessoa e o uso de termos de outras áreas de conhecimento como por exemplo, de Medicina e Psicologia, por causade direitos e implicações legais.
